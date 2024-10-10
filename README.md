@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @lazygirlleen 
 - 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Framework Flutter, Framework Laravel, and Phyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Dart, PHP, and Phyton
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 lazygirlleen/lazygirlleen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
